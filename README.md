@@ -90,7 +90,7 @@ https://cointelegraph.com/news/white-hat-returns-5-million-curve-finance-hack
 
 <img  src="https://i.postimg.cc/3RfW3VsF/2.png"  alt="connect"  border="0">
 
-4. Create and deploy your bot.
+3. Create and deploy your bot.
 
   
 
